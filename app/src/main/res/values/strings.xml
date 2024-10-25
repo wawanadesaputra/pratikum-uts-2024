@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Balok</string>
+    <string name="input_panjang">Masukkan Panjang</string>
+    <string name="input_lebar">Masukkan Lebar</string>
+    <string name="input_tinggi">Masukkan Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil Volume Balok</string>
+    <string name="btn_kembali">Kembali</string>
+</resources>
